@@ -73,6 +73,15 @@
 
 # from Al import recursion
 # from Al import sorting
-from Al import BFSnDFS
+# from Al import BFSnDFS
+
+
+# from pyDs import dynamicArray
+# from pyDs import arrayProbs
+# from pyDs import SQnDeque
+# from pyDs import dequeProbs
+# from pyDs import linkedlistProbs
+# from pyDs import recursiveProbs
+from pyDs import Tree
 
 
